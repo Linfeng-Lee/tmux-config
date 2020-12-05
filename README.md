@@ -8,12 +8,12 @@
 
 1. ## **克隆项目**  
 
-- ***git clone  [https://github.com/omega-Lee/MyTmux.git](https://github.com/omega-Lee/MyTmux.git)***
+- ***git clone  [https://github.com/omega-Lee/tmux-config.git](https://github.com/omega-Lee/tmux-config.git)***
 
 1. ## **使用软链接在home下链接文件：**  
 
-- ***ln -s -f MyTmux/.tmux.conf ~/.tmux.conf***  
-- ***ln -s -f MyTmux/.tmux.conf.local ~/.tmux.conf.local***  
+- ***ln -s -f tmux-config/.tmux.conf ~/.tmux.conf***  
+- ***ln -s -f tmux-config/.tmux.conf.local ~/.tmux.conf.local***  
 
 
 
