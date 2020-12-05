@@ -1,4 +1,4 @@
-# MyTmux
+# tmux-config
 
 # 我的Tmux配置文件在oh-my-tmux的基础上修改了快捷键
 
