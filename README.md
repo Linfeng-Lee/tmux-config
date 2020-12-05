@@ -10,7 +10,7 @@
 
 - ***git clone  [https://github.com/omega-Lee/tmux-config.git](https://github.com/omega-Lee/tmux-config.git)***
 
-1. ## **使用软链接在home下链接文件：**  
+2. ## **使用软链接在home下链接文件：**  
 
 - ***ln -s -f tmux-config/.tmux.conf ~/.tmux.conf***  
 - ***ln -s -f tmux-config/.tmux.conf.local ~/.tmux.conf.local***  
