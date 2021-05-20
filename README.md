@@ -8,17 +8,16 @@
 
 1. ## **克隆项目**  
 
-- ***git clone  [https://github.com/omega-Lee/tmux-config.git](https://github.com/omega-Lee/tmux-config.git)***
+```bash
+git clone https://github.com/Linfeng-Lee/tmux-config.git
+```
 
 2. ## **使用install.sh：**  
 
-- ```bash
-  sudo bash ./install.sh
-  ```
-
-  
-
-
+```bash
+cd tmux-config/
+sudo bash ./install
+```
 
 # 修改内容（**以下内容都在.tmux.conf内修改完成**）：
 
